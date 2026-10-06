@@ -221,6 +221,14 @@ Possible future improvements include:
 - User authentication
 - More detailed weather charts
 
+## Challenges Faced
+
+1. Connecting the React frontend with the Express backend and handling API requests and errors.
+
+2. Processing weather data from Open-Meteo and displaying current, daily, and hourly forecasts correctly.
+
+3. Making the weather dashboard responsive and ensuring that the layout works well on both desktop and mobile devices.
+
 ## Learning Outcomes
 
 Through this project, I practiced:
