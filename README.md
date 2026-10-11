@@ -242,3 +242,10 @@ Through this project, I practiced:
 - Error handling
 - Frontend and backend communication
 - Git and GitHub workflow
+## Screenshots
+
+### Desktop View
+![Desktop Screenshot](screenshots/desktop.png)
+
+### Mobile View
+![Mobile Screenshot](screenshots/mobile.png)
